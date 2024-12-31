@@ -7,15 +7,15 @@ const next = document.getElementById("next");
 const previous = document.getElementById("previous");
 
 const Musica1 = {
-  songName: 'Yeah Motherfucker',
-  file: 'bah',
-  artist: 'Me Hahaha'
+  songName: '',
+  file: '',
+  artist: ''
 };
 
 const Musica2 = {
-  songName: 'Daaaamn',
-  file: 'bah2',
-  artist: 'Me Hahaha'
+  songName: '',
+  file: '',
+  artist: ''
 };
 
 const playlist = [Musica1, Musica2];
